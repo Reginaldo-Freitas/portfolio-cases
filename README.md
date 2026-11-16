@@ -2,8 +2,8 @@
 # Projetos em que trabalhei
 1. D-volta
 Aplicação mobile para achados e perdidos em instituições, empresas, estabelecimentos, etc para que pessoa tenham uma maior chance de encontrar seus itens perdidos
-/nEsse projeto foi feito em equipe, trabalhei na parte visual, na parte da lógica, no banco de dados
-Utilizei Dart com o framework flutter, android Studio
+\Esse projeto foi feito em equipe, trabalhei na parte visual, na parte da lógica, no banco de dados
+\Utilizei Dart com o framework flutter, android Studio
 
 link para o repositório:
 https://github.com/YuriAlbuquerque2/Sistema-DVolta
